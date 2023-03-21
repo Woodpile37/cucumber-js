@@ -227,7 +227,7 @@
     "stack-chain": "^2.0.0",
     "string-argv": "^0.3.1",
     "strip-ansi": "6.0.1",
-    "supports-color": "^8.1.1",
+    "supports-color": "^9.3.1",
     "tmp": "^0.2.1",
     "util-arity": "^1.1.0",
     "verror": "^1.10.0",
