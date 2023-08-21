@@ -231,7 +231,7 @@
     "tmp": "^0.2.1",
     "util-arity": "^1.1.0",
     "verror": "^1.10.0",
-    "yup": "^0.32.11"
+    "yup": "^1.0.2"
   },
   "devDependencies": {
     "@cucumber/compatibility-kit": "11.0.1",
